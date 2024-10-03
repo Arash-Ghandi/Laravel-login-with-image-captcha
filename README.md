@@ -1,3 +1,25 @@
+Before installing, make sure you have the following tools installed on your machine:
+
+- PHP >= 8.0
+- Composer
+- MySQL or any other supported database
+- Laravel 8 or newer
+- Node.js & npm (for asset compilation)
+- Git
+
+## Installation
+
+Follow these steps to install the project on your local machine.
+
+### 1. Clone the repository
+
+First, clone this repository to your local machine:
+
+```bash
+git clone https://github.com/Arash-Ghandi/laravel-login-with-image-capcha.git
+cd laravel-login-with-image-capcha
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
