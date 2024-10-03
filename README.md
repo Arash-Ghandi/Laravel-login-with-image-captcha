@@ -48,8 +48,10 @@ Create a new database in MySQL (or any supported database) and configure your .e
 After that, run the migrations to create the necessary database tables:
 
 ```bash
-php artisan key:generate
-
+php artisan migrate
+```
+```bash
+php artisan db:seed
 ```
 ### 5. Serve the application
 To start the development server, run:
