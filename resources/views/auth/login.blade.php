@@ -10,6 +10,11 @@
                 <div class="col-lg-12 d-flex justify-content-center flex-column align-items-center">
                     <div class="card card-body shadow-custom-03 p-md-5">
                         <h5 class="text-center my-2">Login to the managment panel</h5>
+                        <div class="alert alert-info text-center" role="alert">
+                            E-Mail:example@example.com
+                            <br>
+                            Password:secret
+                        </div>
                         <form role="form" id="contact-form" method="POST" action="{{ route('login-user') }}"
                             autocomplete="off">
                             @csrf
