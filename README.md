@@ -25,7 +25,6 @@ Install the PHP and JavaScript dependencies using Composer and npm:
 
 ```bash
 composer install
-npm install
 
 ```
 ### 3. Set up environment
